@@ -1,0 +1,24 @@
+# Dart tools and dependencies
+.dart_tool/
+.packages
+pubspec.lock
+
+# Conventional directory for build outputs
+build/
+
+# Compiled native binaries
+rpn_repl
+*.exe
+
+# Python virtual environments & bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Temporary scripts & files
+*.tmp
+temp_*.py
+scratch/
+
+docs/
